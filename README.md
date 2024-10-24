@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?semt=ais_hybrid">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg">
 
 <h1 align="center">Hi 👋, I'm Klent Paraiso</h1>
 <h3 align="center">A BSCS Student with a passion for technology and a deep curiosity about the world of coding.</h3>
