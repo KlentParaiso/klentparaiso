@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **paraisoklent@gmail.com**
 
-- ⚡ Fun fact **I play league of legends for over 10 years+**
+- ⚡ Fun fact **I play league of legends for over 10 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
