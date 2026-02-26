@@ -90,20 +90,6 @@ Full Stack Developer and Data & Automation Specialist with **5+ years of experie
 > **Stack:** Python, Jupyter Notebook, NumPy  
 > [📂 View Repository](https://github.com/KlentParaiso/Matrix_Operations_Activity_KlentParaiso.ipynb.)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=klentparaiso&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=klentparaiso&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klentparaiso&theme=github-dark&hide_border=true" width="60%"/>
-</p>
-
----
 
 <p align="center">
   <i>"Building systems that work harder so people don't have to."</i><br/><br/>
