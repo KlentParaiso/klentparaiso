@@ -1,21 +1,115 @@
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg">
+<h1 align="center">Klent Darryl Paraiso</h1>
+<h3 align="center">Full Stack Developer · Data & Automation Specialist</h3>
 
-<h1 align="center">Hi 👋, I'm Klent Paraiso</h1>
-<h3 align="center">A BSCS Student with a passion for technology and a deep curiosity about the world of coding.</h3>
-
-- 🌱 I’m currently learning **Web Development**
-
-- 📫 How to reach me **paraisoklent@gmail.com**
-
-- ⚡ Fun fact **I play league of legends for over 10 years**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/klentparaiso123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/klentparaiso123" height="30" width="40" /></a>
-<a href="https://instagram.com/klntdrryl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/klntdrryl/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:paraisoklent@gmail.com"><img src="https://img.shields.io/badge/Email-paraisoklent%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/klentparaiso123"><img src="https://img.shields.io/badge/Facebook-klentparaiso123-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=klentparaiso&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=klentparaiso&show_icons=true&locale=en&layout=compact" alt="klentparaiso" /></p>
+## 👨‍💻 About Me
+
+Full Stack Developer and Data & Automation Specialist with **5+ years of experience** building scalable web applications, automated reporting pipelines, and data-driven solutions. I turn complex business problems into clean, efficient systems.
+
+- 🔭 Currently working as a **Freelance Developer & Automation Specialist**
+- 💼 Previously: **System & Data Analyst at Amazon Vendor Central** — reduced manual reporting by **60%** through Python & SQL automation
+- 🌍 Open to **remote & international opportunities**
+- 🎓 **BS Computer Science** — Cor Jesu College
+- 📫 Reach me at **paraisoklent@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+**Data & Automation**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 CSG Finance System
+> A financial management web application built with JavaScript.  
+> Features financial tracking, reporting, and data visualization for business operations.  
+> **Stack:** JavaScript, HTML, CSS, Chart.js  
+> [📂 View Repository](https://github.com/KlentParaiso/CSG-Finance)
+
+---
+
+### 🎓 Final Rizal Project
+> A full TypeScript web application developed as a capstone-level project.  
+> Demonstrates advanced front-end architecture and component-based development.  
+> **Stack:** TypeScript, HTML, CSS  
+> [📂 View Repository](https://github.com/KlentParaiso/FinalRizal)
+
+---
+
+### 🎮 Memory Game
+> An interactive browser-based memory card game built with vanilla JavaScript.  
+> Clean UI with game logic, score tracking, and responsive design.  
+> **Stack:** JavaScript, HTML, CSS  
+> [📂 View Repository](https://github.com/KlentParaiso/Memory-game)
+
+---
+
+### 🏎️ Racing Monster
+> A browser-based JavaScript game featuring real-time interaction and dynamic rendering.  
+> **Stack:** JavaScript, HTML, CSS  
+> [📂 View Repository](https://github.com/KlentParaiso/racingmonster)
+
+---
+
+### 📊 Matrix Operations (Data Science)
+> Jupyter Notebook demonstrating matrix operations and mathematical computations using Python.  
+> Showcases data science fundamentals and Python numerical computing skills.  
+> **Stack:** Python, Jupyter Notebook, NumPy  
+> [📂 View Repository](https://github.com/KlentParaiso/Matrix_Operations_Activity_KlentParaiso.ipynb.)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klentparaiso&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klentparaiso&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klentparaiso&theme=github-dark&hide_border=true" width="60%"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building systems that work harder so people don't have to."</i><br/><br/>
+  <b>🌏 Open to remote & international opportunities</b>
+</p>
