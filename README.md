@@ -1,11 +1,7 @@
 <h1 align="center">Klent Darryl Paraiso</h1>
 <h3 align="center">Full Stack Developer · Data & Automation Specialist</h3>
 
-<p align="center">
-  <a href="mailto:paraisoklent@gmail.com"><img src="https://img.shields.io/badge/Email-paraisoklent%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/klentparaiso123"><img src="https://img.shields.io/badge/Facebook-klentparaiso123-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=klentparaiso&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-</p>
+
 
 ---
 
