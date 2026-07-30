@@ -1,8 +1,18 @@
-### Klent Paraiso
+<div align="center">
 
-`Full-Stack Developer` · Python · JavaScript/TypeScript · Data Science
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0F5C52&height=180&section=header&text=Klent%20Paraiso&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20Data%20Automation%20Specialist&descAlignY=58&descSize=18)
 
-Building web apps end-to-end, automating repetitive workflows, and working through data problems in Python when I get the chance.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0F5C52&center=true&vCenter=true&width=500&lines=Building+web+apps+end-to-end;Automating+repetitive+workflows;Python+%2B+SQL+%2B+data+on+the+side)](https://git.io/typing-svg)
+
+</div>
+
+### Stats
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KlentParaiso&theme=default&background=FFFFFF&ring=0F5C52&fire=C98A2C&currStreakLabel=0F5C52&border=DADDD8)
+
+</div>
 
 ### Tech Stack
 
