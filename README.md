@@ -24,53 +24,23 @@ Building web apps end-to-end, automating repetitive workflows, and working throu
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
+**CSG Finance System** — Financial tracking & reporting web app
+`JavaScript` `Chart.js` · [View Repository →](https://github.com/KlentParaiso/CSG-Finance)
 
-      **CSG Finance System**
-      Financial tracking & reporting web app
-      `JavaScript` `Chart.js`
-      [View Repository →](https://github.com/KlentParaiso/CSG-Finance)
+**Final Rizal Project** — Capstone project, component-based front end
+`TypeScript` · [View Repository →](https://github.com/KlentParaiso/FinalRizal)
 
-      </td>
-      <td width="50%">
+**Racing Monster** — Real-time browser game
+`JavaScript` · [View Repository →](https://github.com/KlentParaiso/racingmonster)
 
-      **Final Rizal Project**
-      Capstone project, component-based front end
-      `TypeScript`
-      [View Repository →](https://github.com/KlentParaiso/FinalRizal)
+**Matrix Operations (Data Science)** — Linear algebra & matrix ops notebook
+`Python` `NumPy` `Jupyter` · [View Repository →](https://github.com/KlentParaiso/Matrix_Operations_Activity_KlentParaiso.ipynb.)
 
-      </td>
-      </tr>
-      <tr>
-      <td width="50%">
+### Connect
 
-      **Racing Monster**
-      Real-time browser game
-      `JavaScript`
-      [View Repository →](https://github.com/KlentParaiso/racingmonster)
+<div align="center">
 
-      </td>
-      <td width="50%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klentparaiso)
+[![Email](https://img.shields.io/badge/Email-C98A2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraisoklent@gmail.com)
 
-      **Matrix Operations (Data Science)**
-      Linear algebra & matrix ops notebook
-      `Python` `NumPy` `Jupyter`
-      [View Repository →](https://github.com/KlentParaiso/Matrix_Operations_Activity_KlentParaiso.ipynb.)
-
-      </td>
-      </tr>
-      </table>
-
-      ### Connect
-
-      <div align="center">
-
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klentparaiso)
-      [![Email](https://img.shields.io/badge/Email-C98A2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraisoklent@gmail.com)
-
-      </div>
-      
-  </tr>
-</table>
+</div>
