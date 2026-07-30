@@ -1,29 +1,45 @@
-# Klent Paraiso
+### Klent Paraiso
 
-Data and Operations Specialist · Full-Stack Developer
+`Full-Stack Developer` · Python · JavaScript/TypeScript · Data Science
 
-I manage large-scale e-commerce catalog operations and build automation tools and web applications on the side.
+```bash
+$ whoami
+klent-paraiso — full-stack developer, CS background
 
-## Currently
+$ cat interests.txt
+Building web apps end-to-end, automating repetitive workflows,
+and working through data problems in Python when I get the chance.
+```
 
-- Amazon Vendor Catalog Manager (Part-time) — BMG, Canada (Remote)
-- Open to remote data analyst, e-commerce operations, and web development roles
+---
 
-## Background
+#### `cat stack.yml`
 
-- 3+ years managing product, pricing, and inventory data across 100,000+ SKUs and a 30+ member team
-- Built automation scripts in Python and SQL to catch catalog data errors before they reached production
-- BS Computer Science, Cor Jesu College
+```yaml
+languages:  [Python, JavaScript, TypeScript, Java, SQL]
+web:        [React, Flutter, Firebase, Django]
+data:       [Pandas, NumPy, Power BI]
+tools:      [Git, MySQL, REST APIs, Jupyter]
+```
 
-## Stack
+---
 
-**Languages:** Python, SQL, JavaScript, TypeScript, Java
-**Data & Reporting:** Power BI, Excel, Pandas
-**Web:** React, Flutter, Firebase, Django
-**Tools:** Git, MySQL, REST APIs
+#### `git log --oneline --stat`
 
-## Links
+```
+* 9a1f2c4  csg-finance        JS · Chart.js       financial tracking & reporting web app
+* 6b7e0d2  final-rizal        TypeScript          capstone project, component-based front end
+* e3d9a81  racing-monster     JavaScript          real-time browser game
+* 0c4f7b3  memory-game        JavaScript          browser-based memory card game
+* 5a2e918  matrix-operations  Python · NumPy      linear algebra & matrix ops notebook
+```
 
-- Portfolio: (add your hosted URL here)
-- LinkedIn: linkedin.com/in/klentparaiso
-- Email: paraisoklent@gmail.com
+---
+
+#### `cat links.txt`
+
+```
+portfolio  →  (add your hosted URL here)
+linkedin   →  linkedin.com/in/klentparaiso
+email      →  paraisoklent@gmail.com
+```
