@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KlentParaiso&theme=default&background=FFFFFF&ring=0F5C52&fire=C98A2C&currStreakLabel=0F5C52&border=DADDD8)
+![Followers](https://img.shields.io/github/followers/KlentParaiso?style=for-the-badge&color=0F5C52&label=Followers)
 
 </div>
 
