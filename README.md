@@ -6,14 +6,6 @@
 
 </div>
 
-### Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/KlentParaiso?style=for-the-badge&color=0F5C52&label=Followers)
-
-</div>
-
 ### Tech Stack
 
 <div align="center">
