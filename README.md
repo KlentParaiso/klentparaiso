@@ -16,36 +16,7 @@ I build full-stack web apps and automate the boring stuff.
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,java,react,flutter,firebase,django,mysql,git&theme=dark&perline=10" alt="tech stack" />
 
-### Things I've built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/KlentParaiso/CSG-Finance"><b>csg-finance</b></a><br>
-<sub>Financial tracking &amp; reporting web app</sub><br><br>
-<sub>🟡 JavaScript · Chart.js</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/KlentParaiso/FinalRizal"><b>final-rizal</b></a><br>
-<sub>Academic project, component-based front end</sub><br><br>
-<sub>🔵 TypeScript</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/KlentParaiso/racingmonster"><b>racing-monster</b></a><br>
-<sub>Real-time browser game</sub><br><br>
-<sub>🟡 JavaScript</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/KlentParaiso/Matrix_Operations_Activity_KlentParaiso.ipynb."><b>matrix-operations</b></a><br>
-<sub>Linear algebra &amp; matrix ops notebook</sub><br><br>
-<sub>🟠 Python · NumPy · Jupyter</sub>
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <p align="center">
 <a href="https://linkedin.com/in/klentparaiso"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
