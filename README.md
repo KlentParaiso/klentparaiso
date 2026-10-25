@@ -27,7 +27,7 @@ I build full-stack web apps and automate the boring stuff.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/KlentParaiso/FinalRizal"><b>final-rizal</b></a><br>
-<sub>Capstone project, component-based front end</sub><br><br>
+<sub>Academic project, component-based front end</sub><br><br>
 <sub>🔵 TypeScript</sub>
 </td>
 </tr>
