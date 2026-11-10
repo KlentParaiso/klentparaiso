@@ -1,16 +1,26 @@
-## Hey, I'm Klent
+## Klent Paraiso
 
-I build full-stack web apps and automate the boring stuff.
+**Data & E-commerce Operations Specialist | Amazon Vendor Central**
 
-`> turning spreadsheets into apps_`
+Digos City, Philippines · CS Graduate · 3 years experience
 
-Data & E-commerce Operations Specialist — Amazon catalogs, 100k+ SKUs, Excel / Power BI.
-Currently building: **Sari-sari Store Utang + Inventory App**
+I manage and audit large Amazon catalogs — pricing, inventory, and product data — and build simple apps that automate manual work.
 
-### Tech
+### What I do
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,flutter,firebase,mysql,git&theme=dark" alt="tech stack" />
+- Catalog, pricing & inventory management for **100,000+ SKUs**
+- Data cleaning, reporting & dashboards with **Excel and Power BI**
+- Manual verification and distributor checks for a **30+ member team**
 
-<br>
+### Tools
+
+**Operations:** Amazon Vendor Central · Excel · Power BI
+**Development:** Python · JavaScript · TypeScript · React · Flutter · Firebase
+
+### Featured project
+
+**Sari-sari Store App** — Utang, inventory & sales tracker built for a real local store owner.
+
+### Contact
 
 [LinkedIn](https://linkedin.com/in/klentparaiso) · [Email](mailto:paraisoklent@gmail.com) · [Portfolio](https://klentparaiso.github.io/webportfolio/)
