@@ -1,6 +1,6 @@
 ## Klent Paraiso
 
-**Data & E-commerce Operations Specialist **
+Data & E-commerce Operations Specialist
 
 Philippines · CS Graduate · 3 years experience
 
