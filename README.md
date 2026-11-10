@@ -17,9 +17,6 @@ I manage and audit large Amazon catalogs — pricing, inventory, and product dat
 **Operations:** Amazon Vendor Central · Excel · Power BI
 **Development:** Python · JavaScript · TypeScript · React · Flutter · Firebase
 
-### Featured project
-
-**Sari-sari Store App** — Utang, inventory & sales tracker built for a real local store owner.
 
 ### Contact
 
