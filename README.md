@@ -1,8 +1,8 @@
 ## Klent Paraiso
 
-**Data & E-commerce Operations Specialist | Amazon Vendor Central**
+**Data & E-commerce Operations Specialist **
 
-Digos City, Philippines · CS Graduate · 3 years experience
+Philippines · CS Graduate · 3 years experience
 
 I manage and audit large Amazon catalogs — pricing, inventory, and product data — and build simple apps that automate manual work.
 
