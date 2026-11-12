@@ -17,15 +17,6 @@ I build web apps and internal tools that turn messy operational data into someth
 - **Data & reporting**: reconciliation pipelines, trackers, and Power BI dashboards
 - **Full-stack web apps**: React and TypeScript frontends backed by FastAPI, Django, or Firebase
 
-### Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [Kaya Pa Ba? PH](https://github.com/KlentParaiso/REPO_NAME) | Budget calculator that compares your expenses against Philippine CPI data | FastAPI · React |
-| [financialweb](https://github.com/KlentParaiso/financialweb) | ONE-LINE DESCRIPTION | Python |
-| [attend_proto](https://github.com/Kryphus/attend_proto) | ONE-LINE DESCRIPTION | Dart · Flutter |
-| [webportfolio](https://github.com/KlentParaiso/webportfolio) | My personal portfolio site | HTML · CSS · JavaScript |
-
 ### Tech stack
 
 **Languages**  
