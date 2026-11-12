@@ -6,8 +6,8 @@
 I build web apps and internal tools that turn messy operational data into something a team can actually use, from catalog trackers and reconciliation workflows to full-stack applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-klentparaiso.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://klentparaiso.github.io/webportfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Klent_Paraiso-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Klent_Paraiso-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/klentparaiso)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paraisoklent@gmail.com)
 
 ---
 
